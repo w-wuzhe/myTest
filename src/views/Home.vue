@@ -18,9 +18,9 @@ export default {
         }
     } ,
     methods : {
-        // user() {
-        //     this.$router.push('/user')
-        // }
+        user() {
+            this.$router.push('/user')
+        }
     }
 }
 </script>
